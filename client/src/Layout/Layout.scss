@@ -1,0 +1,14 @@
+#Layout {
+  display: flex;
+  background: yellow;
+  height: 100%;
+  .container {
+    width: 100%;
+    padding-top: 56px;
+    .content {
+      padding: 24px;
+      background: yellowgreen;
+      height: 100%;
+    }
+  }
+}
